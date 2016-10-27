@@ -1,0 +1,46 @@
+body {
+    /* this is a comment */
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: "Helvetica", "Arial", sans-serif;
+    color: #555555;
+}
+
+h1 {
+    color: #333;
+}
+
+code,
+pre {
+    background: #eee;
+}
+
+code {
+    padding: 2px 4px;
+    vertical-align: text-bottom;
+}
+
+pre {
+    padding: 1em;
+}
+
+li {
+    display: inline;
+    background-color: #eee;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+.buttonclass {
+    margin-left: 30px;
+    background-color: #ddd;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.buttonclass:hover {
+    background-color: #aaa;
+}
